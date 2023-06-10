@@ -1,14 +1,14 @@
 {
-  "name": "hanzi",
-  "author": "Niel de la Rouviere",
+  "name": "hanzi-improved",
+  "author": "Niel de la Rouviere & Noah Little",
   "description":
     "HanziJS is a Chinese character and NLP module for Chinese language processing for Node.js",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nieldlr/Hanzi.git"
+    "url": "git@github.com:ginsudev/Hanzi.git"
   },
   "jest": {
     "testRegex": "/test/.*",
